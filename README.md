@@ -8,7 +8,9 @@ We started the project by brainstorming ideas at the pub and then the next day i
 For our project we used trello to organise our tasks between the five of us. For the start, Henry and James worked on setting up an authentication system. After setting up the authentication, we divided our tasks of building the app into front-end and back-end. The back-end group worked on setting up the express app and the angular set up. Meanwhile the other group worked on designing wireframes and then building the html pages for the users, index, home page, and add a book page. 
 
 
-![Alt Image Text](docs/trello_screenshot_20170201.png)
+![Alt Image Text](docs/trello_screenshot_20170201.png) 
+
+
 
 
 
@@ -21,6 +23,7 @@ For our project we used trello to organise our tasks between the five of us. For
 On Tuesday we spent some time working on a bug related to installing angular Slick carousel. We understood that the issue was installing an outdated version of Slick which didn’t match our current setup. 
 
 http://kenwheeler.github.io/slick/ 
+
 
 
 
