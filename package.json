@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "An authenticated app with Angular and Express.",
   "main": "index.js",
+  "engines": {
+    "npm": "4.1.2"
+  },
   "scripts": {
     "postinstall": "bower install && gulp deploy"
   },
-  "author": "Alex Chin <alex@alexchin.co.uk>",
+  "author": "James Bremner <jamesbremnerdev@gmail.com>",
   "license": "ISC",
   "gulp": {
     "srcDir": "src/",
